@@ -4,264 +4,352 @@
         "eTo": 6597.723  ,
         "pred": "False",
         "dtr": "Janeiro/22/01",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1110
     },
     {
         "eTo": 4639.113 ,
         "pred": "False",
         "dtr": "Janeiro/22/02",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 884
     },
     {
         "eTo":  2685.473,
         "pred": "False",
         "dtr": "Janeiro/22/03",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1724
     },
     {
         "eTo":  703.113,
         "pred": "False",
         "dtr": "Janeiro/22/04",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1631
     },
     {
         "eTo": 5703.113 ,
         "pred": "False",
         "dtr": "Janeiro/22/05",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1395
     },
     {
         "eTo":  3686.623,
         "pred": "False",
         "dtr": "Janeiro/22/06",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1368
     },
     {
         "eTo":   1307.923 ,
         "pred": "False",
         "dtr": "Janeiro/22/07",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1908
     },
     {
         "eTo": 6307.923 ,
         "pred": "False",
         "dtr": "Janeiro/22/08",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1020
     },
     {
         "eTo": 4238.613 ,
         "pred": "False",
         "dtr": "Janeiro/22/09",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 878
     },
     {
         "eTo": 9238.613  ,
         "pred": "False",
         "dtr": "Janeiro/22/10",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1316
     },
     {
         "eTo":  6750.323,
         "pred": "False",
         "dtr": "Janeiro/22/11",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1197
     },
     {
         "eTo":   4833.123 ,
         "pred": "False",
         "dtr": "Janeiro/22/12",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1536
     },
     {
         "eTo":  3476.213 ,
         "pred": "False",
         "dtr": "Janeiro/22/13",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1578
     },
     {
         "eTo":  8476.213 ,
         "pred": "False",
         "dtr": "Janeiro/22/14",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1691
     },
     {
         "eTo":  6462.683 ,
         "pred": "False",
         "dtr": "Janeiro/22/15",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1037
     },
     {
         "eTo": 4309.333 ,
         "pred": "False",
         "dtr": "Janeiro/22/16",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 822
     },
     {
         "eTo": 2469.023 ,
         "pred": "False",
         "dtr": "Janeiro/22/17",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1379
     },
     {
         "eTo": 7469.023 ,
         "pred": "False",
         "dtr": "Janeiro/22/18",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1535
     },
     {
         "eTo":  4899.143,
         "pred": "False",
         "dtr": "Janeiro/22/19",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2169
     },
     {
         "eTo": 6277.283 ,
         "pred": "False",
         "dtr": "Janeiro/22/20",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2170
     },
     {
         "eTo":  3305.183 ,
         "pred": "False",
         "dtr": "Janeiro/22/21",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2590
     },
     {
         "eTo":  1535.763 ,
         "pred": "False",
         "dtr": "Janeiro/22/22",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1959
     },
     {
         "eTo": 6535.763 ,
         "pred": "False",
         "dtr": "Janeiro/22/23",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1954
     },
     {
         "eTo":  7899.263 ,
         "pred": "False",
         "dtr": "Janeiro/22/24",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1982
     },
     {
         "eTo":  4782.733 ,
         "pred": "False",
         "dtr": "Janeiro/22/25",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2016
     },
     {
         "eTo":  9782.733 ,
         "pred": "False",
         "dtr": "Janeiro/22/26",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2379
     },
     {
         "eTo":  7073.483 ,
         "pred": "False",
         "dtr": "Janeiro/22/27",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2069
     },
     {
         "eTo": 4651.993 ,
         "pred": "False",
         "dtr": "Janeiro/22/28",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2488
     },
     {
         "eTo": 9651.993 ,
         "pred": "False",
         "dtr": "Janeiro/22/29",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1917
     },
     {
         "eTo":  7228.243 ,
         "pred": "False",
         "dtr": "Janeiro/22/30",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1357
     },
     {
         "eTo":   12228.243 ,
         "pred": "False",
         "dtr": "Janeiro/22/31",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2014
     },
     {
         "eTo":  9657.773 ,
         "pred": "False",
         "dtr": "Fevereiro/22/01",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2153
     },
     {
         "eTo":  8183.013,
         "pred": "False",
         "dtr": "Fevereiro/22/02",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1840
     },
     {
         "eTo": 5436.233 ,
         "pred": "False",
         "dtr": "Fevereiro/22/03",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2570
     },
     {
         "eTo": 2519.633 ,
         "pred": "False",
         "dtr": "Fevereiro/22/04",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3622
     },
     {
         "eTo":  7519.633 ,
         "pred": "False",
         "dtr": "Fevereiro/22/05",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2972
     },
     {
         "eTo":  5173.463 ,
         "pred": "False",
         "dtr": "Fevereiro/22/06",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1769
     },
     {
         "eTo":  10173.463 ,
         "pred": "False",
         "dtr": "Fevereiro/22/07",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3637
     },
     {
         "eTo":  7393.643 ,
         "pred": "False",
         "dtr": "Fevereiro/22/08",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3117
     },
     {
         "eTo":3296.443  ,
         "pred": "False",
         "dtr": "Fevereiro/22/09",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2709
     },
     {
         "eTo":  13296.443 ,
         "pred": "False",
         "dtr": "Fevereiro/22/10",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2421
     },
     {
         "eTo": 10901.953 ,
         "pred": "False",
         "dtr": "Fevereiro/22/11",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2424
     },
     {
         "eTo":  8417.293 ,
         "pred": "False",
         "dtr": "Fevereiro/22/12",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2570
     },
     {
         "eTo":  13417.293 ,
         "pred": "False",
         "dtr": "Fevereiro/22/13",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1475
     },
 
@@ -269,198 +357,264 @@
         "eTo":  9617.343 ,
         "pred": "False",
         "dtr": "Fevereiro/22/14",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2747
     },
     {
         "eTo":  6893.983 ,
         "pred": "False",
         "dtr": "Fevereiro/22/15",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2917
     },
     {
         "eTo":  11893.983 ,
         "pred": "False",
         "dtr": "Fevereiro/22/16",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2346
     },
     {
         "eTo": 9082.763 ,
         "pred": "False",
         "dtr": "Fevereiro/22/17",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2780
     },
     {
         "eTo": 5919.143  ,
         "pred": "False",
         "dtr": "Fevereiro/22/18",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4097
     },
     {
         "eTo":  10919.143,
         "pred": "False",
         "dtr": "Fevereiro/22/19",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2394
     },
     {
         "eTo":  6643.553 ,
         "pred": "False",
         "dtr": "Fevereiro/22/20",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2485
     },
     {
         "eTo":  11643.553 ,
         "pred": "False",
         "dtr": "Fevereiro/22/21",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3800
     },
     {
         "eTo":  8540.013 ,
         "pred": "False",
         "dtr": "Fevereiro/22/22",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2723
     },
     {
         "eTo":  6921.113 ,
         "pred": "False",
         "dtr": "Fevereiro/22/23",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2811
     },
     {
         "eTo":  11921.113 ,
         "pred": "False",
         "dtr": "Fevereiro/22/24",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3164
     },
     {
         "eTo":  9962.683,
         "pred": "False",
         "dtr": "Fevereiro/22/25",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4276
     },
     {
         "eTo":  9962.683 ,
         "pred": "False",
         "dtr": "Fevereiro/22/26",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3104
     },
     {
         "eTo":  7703.133  ,
         "pred": "False",
         "dtr": "Fevereiro/22/27",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1619
     },
     {
         "eTo": 5321.773  ,
         "pred": "False",
         "dtr": "Febereiro/22/28",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1958
     },
     {
         "eTo": 10321.773  ,
         "pred": "False",
         "dtr": "Março/22/01",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2260
     },
     {
         "eTo":  7314.733 ,
         "pred": "False",
         "dtr": "Março/22/02",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2381
     },
     {
         "eTo":  3540.563 ,
         "pred": "False",
         "dtr": "Março/22/03",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3007
     },
     {
         "eTo": 8540.563 ,
         "pred": "False",
         "dtr": "Março/22/04",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3774
     },
     {
         "eTo":  3395.403 ,
         "pred": "False",
         "dtr": "Março/22/05",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2460
     },
     {
         "eTo": 8395.403  ,
         "pred": "False",
         "dtr": "Março/22/06",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2685
     },
     {
         "eTo": 28395.403  ,
         "pred": "False",
         "dtr": "Março/22/07",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3652
     },
     {
         "eTo": 24743.533 ,
         "pred": "False",
         "dtr": "Março/22/08",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3396
     },
     {
         "eTo": 21348.023  ,
         "pred": "False",
         "dtr": "Março/22/09",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3211
     },
     {
         "eTo":  26348.023 ,
         "pred": "False",
         "dtr": "Março/22/10",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 5539
     },
     {
         "eTo": 23137.48  ,
         "pred": "False",
         "dtr": "Março/22/11",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 5649
     },
     {
         "eTo": 17598.42  ,
         "pred": "False",
         "dtr": "Março/22/12",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3375
     },
     {
         "eTo":  11949.76 ,
         "pred": "False",
         "dtr": "Março/22/13",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3163
     },
     {
         "eTo":  16949.76 ,
         "pred": "False",
         "dtr": "Março/22/14",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4249
     },
     {
         "eTo":  26949.76 ,
         "pred": "False",
         "dtr": "Março/22/15",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3546
     },
     {
         "eTo": 23575.05 ,
         "pred": "False",
         "dtr": "Março/22/16",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2871
     },
     {
         "eTo":  20412.1 ,
         "pred": "False",
         "dtr": "Março/22/17",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3881
     },
     {
         "eTo": 16163.26  ,
         "pred": "False",
         "dtr": "Março/22/18",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 5092
     },
     
@@ -469,162 +623,216 @@
     "eTo"   :  26163.26 , 
     "pred": "False",
         "dtr": "Março/22/19",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3813
     },
     {
         "eTo":  22616.83 ,
         "pred": "False",
         "dtr": "Março/22/20",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3642
     },
     {
         "eTo":  19745.88 ,
         "pred": "False",
         "dtr": "Março/22/21",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4318
     },
     {
         "eTo": 15864.44  ,
         "pred": "False",
         "dtr": "Março/22/22",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3987
     },
     {
         "eTo":  10772.16 ,
         "pred": "False",
         "dtr": "Março/22/23",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2223
     },
     {
         "eTo":  15772.16 ,
         "pred": "False",
         "dtr": "Março/22/24",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2840
     },
     {
         "eTo": 11959.5  ,
         "pred": "False",
         "dtr": "Março/22/25",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4506
     },
     {
         "eTo":  8317.46 ,
         "pred": "False",
         "dtr": "Março/22/26",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4126
     },
     {
         "eTo":  13317.46 ,
         "pred": "False",
         "dtr": "Março/22/27",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3623
     },
     {
         "eTo": 8999.58  ,
         "pred": "False",
         "dtr": "Março/22/28",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4835
     },
     {
         "eTo":   20012.16 ,
         "pred": "False",
         "dtr": "Março/22/29",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4948
     },
     {  
     "eTo"   :  17789.64 , 
     "pred": "False",
         "dtr": "Março/22/30",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4432
     },
     {
         "eTo":  14949.18 ,
         "pred": "False",
         "dtr": "Março/22/31",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4990
     },
     {
         "eTo":  29949.18 ,
         "pred": "False",
         "dtr": "Abril/22/01",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 6221
     },
     {
         "eTo":  21316.74 ,
         "pred": "False",
         "dtr": "Abril/22/02",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4479
     },
     {
         "eTo":  17693.69 ,
         "pred": "False",
         "dtr": "Abril/22/03",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3210
     },
     {
         "eTo":   12858.31,
         "pred": "False",
         "dtr": "Abril/22/04",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4696
     },
     {
         "eTo": 7909.85 ,
         "pred": "False",
         "dtr": "Abril/22/05",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3928
     },
     {
         "eTo":  17909.85,
         "pred": "False",
         "dtr": "Abril/22/06",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2663
     },
     {
         "eTo":  13477.72 ,
         "pred": "False",
         "dtr": "Abril/22/07",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3311
     },
     {
         "eTo":  8488.19,
         "pred": "False",
         "dtr": "Abril/22/08",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3739
     },
     {  
     "eTo"   : 2267.39 , 
     "pred": "False",
         "dtr": "Abril/22/09",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2145
     },
     {
         "eTo":  17267.39,
         "pred": "False",
         "dtr": "Abril/22/10",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2271
     },
     {
         "eTo":  12788.31 ,
         "pred": "False",
         "dtr": "Abril/22/11",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3547
     },
     {
         "eTo":  9578.11 ,
         "pred": "False",
         "dtr": "Abril/22/12",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2784
     },
     {
         "eTo": 14578.11 ,
         "pred": "False",
         "dtr": "Abril/22/13",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3164
     },
     {
         "eTo":   19578.11 ,
         "pred": "False",
         "dtr": "Abril/22/14",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 4017
     },
     
@@ -633,187 +841,249 @@
         "eTo":  24578.11 ,
         "pred": "False",
         "dtr": "Abril/22/15",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1930
     },
     {
         "eTo":  19882.46  ,
         "pred": "False",
         "dtr": "Abril/22/16",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2215
     },
     {
         "eTo":  24882.46 ,
         "pred": "False",
         "dtr": "Abril/22/17",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 1694
     },
     {
         "eTo":29882.46  ,
         "pred": "False",
         "dtr": "Abril/22/18",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3327
     },
     {
         "eTo": 25954.38 ,
         "pred": "False",
         "dtr": "Abril/22/19",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2376
     },
     {
         "eTo":  23291.86,
         "pred": "False",
         "dtr": "Abril/22/20",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 3126
     },
     {
         "eTo": 29980.91 ,
         "pred": "False",
         "dtr": "Abril/22/21",
+       "compra": "" ,
+        "eTo_pred" :"" ,
         "qtd": 2075
     } ,
 {
-    "eTo" :27748,
+    "eTo" :"",
     "pred" : "True",
     "dtr": "Abril/22/22",
+   "compra": "" ,
+    "eTo_pred" :27748,
     "qtd": 2232.66
 },
 {
-    "eTo" :  26675 ,
+    "eTo" :  "" ,
     "pred": "True",
     "dtr": "Abril/22/23",
+   "compra": "" ,
+    "eTo_pred" :26675  ,
     "qtd": 1073.5
 },
 {
-    "eTo" :21784
+    "eTo" :""
     ,
     "pred": "True",
     "dtr": "Abril/22/24",
+   "compra": "" ,
+    "eTo_pred" :21784 ,
     "qtd": 4891.5
 },
 {
-    "eTo" : 20053,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Abril/22/25",
+   "compra": "" ,
+    "eTo_pred" :20053 ,
     "qtd": 1731.5
 },
 {
-    "eTo"  : 18075,
+    "eTo"  :"",
     "pred": "True",
     "dtr": "Abril/22/26",
+   "compra": "" ,
+    "eTo_pred" : 18075 ,
     "qtd": 1978.25
 },
 {
-    "eTo" :14888,
+    "eTo" :"",
     "pred": "True",
     "dtr": "Abril/22/27",
+   "compra": "" ,
+    "eTo_pred" :14888,
     "qtd": 3187
 },
 {
-    "eTo" : 12096,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Abril/22/28",
+   "compra": "" ,
+    "eTo_pred" :12096,
     "qtd": 2792.4
 },
 {
-    "eTo" : 11023,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Abril/22/29",
+   "compra": "" ,
+    "eTo_pred" :11023 ,
     "qtd": 1073.5
 },
 {
-    "eTo" : 9650,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Abril/22/30",
+   "compra": "" ,
+    "eTo_pred" :9650 ,
     "qtd": 1373.33
 },
 {
-    "eTo" : 4001,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/01",
+   "compra": 0 ,
+    "eTo_pred" :4001 ,
     "qtd": 5649
 },
 {
-    "eTo" : 9001,
+    "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/02",
+   "compra": 5000 ,
+    "eTo_pred" :9001,
     "qtd": 4891.5
 },
 {
     "eTo" :"" ,
     "pred": "True",
     "dtr": "Maio/22/03",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 1978.25
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/04",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 1579.8
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/05",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 3775.33
 },
 {
     "eTo" :"" ,
     "pred": "True",
     "dtr": "Maio/22/05",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 3775.33
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/06",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 2792.4
 },
 {
     "eTo" :"" ,
     "pred": "True",
     "dtr": "Maio/22/07",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 3187
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/08",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 1731.5
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/09",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 2792.4
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/10",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 3187
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/11",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 2390
 },
 {
     "eTo" :"" ,
     "pred": "True",
     "dtr": "Maio/22/12",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 2705.66
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/13",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 853
 },
 {
     "eTo" : "",
     "pred": "True",
     "dtr": "Maio/22/14",
+   "compra": "" ,
+    "eTo_pred" :"" ,
     "qtd": 2142.4
 }
 ]
